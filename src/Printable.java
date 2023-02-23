@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum Printable {
+public interface Printable {
+    void print();
 }
